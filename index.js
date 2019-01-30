@@ -1,7 +1,1 @@
-import LoopTabBar from './LoopTabBar';
-import LoopScrollTabView from './LoopScrollTabView'
-
-export default {
-  LoopTabBar,
-  LoopScrollTabView,
-}
+export default from './LoopScrollTabView.js';

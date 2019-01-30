@@ -13,6 +13,8 @@
 
 
 ``` js
+import LoopScrollTabView from 'react-native-loop-scrollable-tab-view
+
 <LoopScrollTabView
     renderTabBar={() => <TabBar />}
     >
