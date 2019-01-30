@@ -1,0 +1,31 @@
+{
+  "name": "react-native-loop-scrollable-tab-view",
+  "version": "0.1.0",
+  "description": "react-native loop loopable tab scrollable scrollable-tab view 循环滑动，无限滑动",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menq/react-native-loop-scrollable-tab-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "loop",
+    "loopable",
+    "tab",
+    "scollable",
+    "scrollable-tab",
+    "view",
+    "循环滑动",
+    "无限滑动",
+    "无限滚动"
+  ],
+  "author": "menq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menq/react-native-loop-scrollable-tab-view/issues"
+  },
+  "homepage": "https://github.com/menq/react-native-loop-scrollable-tab-view#readme"
+}
