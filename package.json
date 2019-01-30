@@ -1,6 +1,6 @@
 {
   "name": "react-native-loop-scrollable-tab-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "react-native loop loopable tab scrollable scrollable-tab view 循环滑动，无限滑动",
   "main": "index.js",
   "scripts": {

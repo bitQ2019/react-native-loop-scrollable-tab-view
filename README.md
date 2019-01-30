@@ -4,6 +4,14 @@
 
 可循环滑动的tab view 控件。
 
+# start 
+
+``` bash
+  npm install react-native-loop-scrollable-tab-view
+
+```
+
+
 ``` js
 <LoopScrollTabView
     renderTabBar={() => <TabBar />}
