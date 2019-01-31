@@ -28,5 +28,5 @@ import LoopScrollTabView from 'react-native-loop-scrollable-tab-view'
         tabLabel={item.name}
         />
     ))}
-    </LoopScrollTabView>
+</LoopScrollTabView>
 ```
