@@ -6,13 +6,12 @@
 
 # start 
 
-``` bash
+```bash
   npm install react-native-loop-scrollable-tab-view
-
 ```
 
 
-``` js
+```js
 import LoopScrollTabView from 'react-native-loop-scrollable-tab-view
 
 <LoopScrollTabView
